@@ -1,0 +1,84 @@
+{
+  "data": {
+    "name": "温岭市",
+    "maps": [],
+    "charts": { "nation": 1, "province": 8 },
+    "countByTopic": null,
+    "countByType": null,
+    "infos": [],
+    "units": [
+      {
+        "country": "温岭市",
+        "name": "台州富岭塑胶有限公司",
+        "role": 2,
+        "total": 0,
+        "total_in": 0,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "新界泵业（浙江）有限公司",
+        "role": 2,
+        "total": 6,
+        "total_in": 3,
+        "total_out": 3,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "利欧集团股份有限公司",
+        "role": 1,
+        "total": 5,
+        "total_in": 3,
+        "total_out": 2,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "浙江华谱新创科技有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "浙江钱江机器人有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "浙江民泰商业银行股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "浙江中马传动股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "温岭市",
+        "name": "中博建设工程集团有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      }
+    ]
+  }
+}

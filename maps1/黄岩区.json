@@ -1,0 +1,84 @@
+{
+  "data": {
+    "name": "黄岩区",
+    "maps": [],
+    "charts": { "nation": 3, "province": 5 },
+    "countByTopic": null,
+    "countByType": null,
+    "infos": [],
+    "units": [
+      {
+        "country": "黄岩区",
+        "name": "浙江光昊光电科技有限公司",
+        "role": 2,
+        "total": 0,
+        "total_in": 0,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "黄岩区",
+        "name": "浙江嘉仁模具有限公司",
+        "role": 2,
+        "total": 6,
+        "total_in": 2,
+        "total_out": 4,
+        "total_exit": 0
+      },
+      {
+        "country": "黄岩区",
+        "name": "浙江天宇药业股份有限公司",
+        "role": 2,
+        "total": 2,
+        "total_in": 1,
+        "total_out": 1,
+        "total_exit": 1
+      },
+      {
+        "country": "黄岩区",
+        "name": "浙江永宁药业股份有限公司",
+        "role": 1,
+        "total": 3,
+        "total_in": 2,
+        "total_out": 1,
+        "total_exit": 1
+      },
+      {
+        "country": "黄岩区",
+        "name": "联化科技股份有限公司",
+        "role": 1,
+        "total": 17,
+        "total_in": 6,
+        "total_out": 11,
+        "total_exit": 3
+      },
+      {
+        "country": "黄岩区",
+        "name": "公元塑业集团有限公司",
+        "role": 1,
+        "total": 7,
+        "total_in": 4,
+        "total_out": 3,
+        "total_exit": 0
+      },
+      {
+        "country": "黄岩区",
+        "name": "浙江华方药业股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 0,
+        "total_out": 1,
+        "total_exit": 0
+      },
+      {
+        "country": "黄岩区",
+        "name": "永高股份有限公司",
+        "role": 2,
+        "total": 2,
+        "total_in": 2,
+        "total_out": 0,
+        "total_exit": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "data": {
+    "name": "路桥区",
+    "maps": [],
+    "charts": { "province": 4 },
+    "countByTopic": null,
+    "countByType": null,
+    "infos": [],
+    "units": [
+      {
+        "country": "路桥区",
+        "name": "浙江泰隆商业银行股份有限公司",
+        "role": 2,
+        "total": 0,
+        "total_in": 0,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "路桥区",
+        "name": "浙江百花园林集团有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "路桥区",
+        "name": "浙江八环轴承股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "路桥区",
+        "name": "浙江亿利达风机股份有限公司",
+        "role": 2,
+        "total": 2,
+        "total_in": 2,
+        "total_out": 0,
+        "total_exit": 0
+      }
+    ]
+  }
+}

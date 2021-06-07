@@ -1,0 +1,254 @@
+{
+  "data": {
+    "name": "台州市",
+    "maps": {
+      "三门县": 4,
+      "临海市": 18,
+      "仙居县": 4,
+      "天台县": 7,
+      "市属": 23,
+      "椒江区": 18,
+      "温岭市": 11,
+      "玉环县": 8,
+      "路桥区": 4,
+      "黄岩区": 17
+    },
+    "charts": {
+      "[\"nation\", \"市属\"]": 3,
+      "[\"nation\", \"椒江区\"]": 4,
+      "[\"province\", \"椒江区\"]": 5,
+      "[\"province\", \"黄岩区\"]": 5,
+      "[\"nation\", \"黄岩区\"]": 3,
+      "[\"province\", \"路桥区\"]": 4,
+      "[\"nation\", \"临海市\"]": 3,
+      "[\"province\", \"临海市\"]": 3,
+      "[\"nation\", \"温岭市\"]": 1,
+      "[\"province\", \"温岭市\"]": 8,
+      "[\"nation\", \"玉环县\"]": 1,
+      "[\"province\", \"玉环县\"]": 4,
+      "[\"province\", \"天台县\"]": 4,
+      "[\"nation\", \"天台县\"]": 1,
+      "[\"nation\", \"仙居县\"]": 3,
+      "[\"province\", \"仙居县\"]": 2,
+      "[\"nation\", \"三门县\"]": 1,
+      "[\"province\", \"三门县\"]": 2
+    },
+    "countByTopic": {
+      "互联网+": { "在线博士后": 0, "相关平台": 0 },
+      "生命健康": { "在线博士后": 0, "相关平台": 0 },
+      "新材料": { "在线博士后": 0, "相关平台": 0 }
+    },
+    "countByType": { "nation": 20, "province": 37 },
+    "infos": [
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/84\"\u003e精密传动机械系统开发\u003c/a\u003e",
+        "unit_name": "浙江双环传动机械股份有限公司",
+        "study_area": "机械工程",
+        "contact": "张靖",
+        "phone": "0576-87239827",
+        "email": "zhangjing@gearsnet.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/120\"\u003e高结晶度（β-晶）聚丙烯(PPH \u0026amp; PPR)的研究/ＰＰＲ、ＰＥ等聚烯烃的结晶改性增强技术研究/石墨烯改性的复合材料研究/海绵城市用集水与排水管道新材料及新工艺的开发等等\u003c/a\u003e",
+        "unit_name": "浙江伟星新型建材股份有限公司",
+        "study_area": "高分子类、材料类",
+        "contact": "陈晖",
+        "phone": "0576-85122537",
+        "email": "2329289@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/185\"\u003e超临界注塑模板工艺\u003c/a\u003e",
+        "unit_name": "浙江嘉仁模具有限公司",
+        "study_area": "材料、化学工程",
+        "contact": "王宏雪",
+        "phone": "0576-84019555",
+        "email": "whx108@126.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/241\"\u003e基于多电压复合驱动的数字阀高频响、低能耗控制方法\u003c/a\u003e",
+        "unit_name": "浙江海宏液压科技股份有限公司",
+        "study_area": "液压、机械、机电一体化",
+        "contact": "",
+        "phone": "0576-85183759",
+        "email": "js1@cn-hydraulic.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/268\"\u003e注塑发泡制品结构与性能的工艺调控\u003c/a\u003e",
+        "unit_name": "浙江嘉仁模具有限公司",
+        "study_area": "材料加工工程",
+        "contact": "王宏雪",
+        "phone": "0576-84019555",
+        "email": "whx108@126.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/269\"\u003e汽车自动变速器\u003c/a\u003e",
+        "unit_name": "浙江中马传动股份有限公司",
+        "study_area": "车辆工程",
+        "contact": "陈云",
+        "phone": "0576-86146516  ",
+        "email": "250900552@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/271\"\u003e医药中间体及原料药工艺研究\u003c/a\u003e",
+        "unit_name": "浙江九洲药业股份有限公司",
+        "study_area": "化学、有机合成",
+        "contact": "孙芬侠",
+        "phone": "0576-88827582",
+        "email": "fenxia.sun@jiuzhoupharma.com.cn"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/285\"\u003e医药、农药、功能化学品中间体绿色合成工艺开发研究\u003c/a\u003e",
+        "unit_name": "联化科技股份有限公司",
+        "study_area": "化学、化工、应用化学、合成相关方向",
+        "contact": "陈幺",
+        "phone": "057681101313,15967682594",
+        "email": "yao.chen@lianhetech.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/286\"\u003e天然药物治疗免疫性疾病、抗癫痫临床前研究\u003c/a\u003e",
+        "unit_name": "浙江永宁药业股份有限公司",
+        "study_area": "中药类、天然药物、临床医学",
+        "contact": "牟玉洁",
+        "phone": "0576-84082126",
+        "email": "mouyujie@ynpharm.cn,1505921468@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/287\"\u003e阴道缓释制剂开发\u003c/a\u003e",
+        "unit_name": "浙江仙琚制药股份有限公司",
+        "study_area": "药剂学、有机合成",
+        "contact": "李尼斯娲",
+        "phone": "0576-87731030",
+        "email": "lnsw@xjpharma.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/288\"\u003e埃格列净的合成工艺研究\u003c/a\u003e",
+        "unit_name": "浙江天宇药业股份有限公司",
+        "study_area": "有机合成、化工制药、药物分析等方向",
+        "contact": "刘仁江",
+        "phone": "0576-84160783",
+        "email": "lrj@tianyupharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/289\"\u003e连续流反应器在甾体激素药物产业化中应用研究\u003c/a\u003e",
+        "unit_name": "浙江仙居君业药业有限公司",
+        "study_area": "化学工程",
+        "contact": "泮宝峰",
+        "phone": "18657689984",
+        "email": "panbaofeng@junyepharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/290\"\u003e智慧管网系统关键技术的研究与应用\u003c/a\u003e",
+        "unit_name": "公元塑业集团有限公司",
+        "study_area": "市政工程等",
+        "contact": "陈卫",
+        "phone": "0576-84277100",
+        "email": "wchen@era.com.cn"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/291\"\u003e新型复合管道关键技术的研究与应用\u003c/a\u003e",
+        "unit_name": "永高股份有限公司",
+        "study_area": "高分子材料",
+        "contact": "陈卫",
+        "phone": "0576-84277100",
+        "email": "wchen@era.com.cn"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/292\"\u003e净水用高分子分离膜的制备\u003c/a\u003e",
+        "unit_name": "浙江伟星新型建材股份有限公司",
+        "study_area": "高分子材料",
+        "contact": "陈晖",
+        "phone": "0576-85122537",
+        "email": "2329289@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/293\"\u003e负氧离子新材料开发及在管道中的应用\u003c/a\u003e",
+        "unit_name": "浙江伟星新型建材股份有限公司",
+        "study_area": "高分子材料",
+        "contact": "陈晖",
+        "phone": "0576-85122537",
+        "email": "2329289@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/294\"\u003e相变储能材料\u003c/a\u003e",
+        "unit_name": "浙江伟星新型建材股份有限公司",
+        "study_area": "高分子材料",
+        "contact": "陈晖",
+        "phone": "0576-85122537",
+        "email": "2329289@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/295\"\u003e碘系列造影剂质量研究、工艺研究\u003c/a\u003e",
+        "unit_name": "浙江司太立制药股份有限公司",
+        "study_area": "有机合成，药学、分析化学",
+        "contact": "徐豪城",
+        "phone": "057687788636",
+        "email": "xuhaocheng@starrypharma.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/296\"\u003e小分子RET抑制剂的设计和合成\u003c/a\u003e",
+        "unit_name": "浙江海正集团有限公司",
+        "study_area": "生物、药化",
+        "contact": "王晓丽",
+        "phone": "0576－88827838",
+        "email": "xiaoli.wang@hisunpharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/297\"\u003ePI3Kγ磷脂酰肌醇-3-激酶γ抑制剂\u003c/a\u003e",
+        "unit_name": "浙江海正集团有限公司",
+        "study_area": "生物、药化",
+        "contact": "王晓丽",
+        "phone": "0576－88827838",
+        "email": "xiaoli.wang@hisunpharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/298\"\u003e半合成抗生素项目产业化开发\u003c/a\u003e",
+        "unit_name": "浙江海正集团有限公司",
+        "study_area": "化学、制药工程、药学",
+        "contact": "王晓丽",
+        "phone": "0576－88827838",
+        "email": "xiaoli.wang@hisunpharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/299\"\u003e微生物产品产生菌底盘的定向改造及产业化应用\u003c/a\u003e",
+        "unit_name": "浙江海正集团有限公司",
+        "study_area": "化学、制药工程、药学、分子生物学",
+        "contact": "王晓丽",
+        "phone": "0576－88827838",
+        "email": "xiaoli.wang@hisunpharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/300\"\u003e铝合金阳极氧化表面处理技术\u003c/a\u003e",
+        "unit_name": "浙江伟星实业发展股份有限公司",
+        "study_area": "表面处理方向",
+        "contact": "季文晴",
+        "phone": "0576-85979958",
+        "email": "836797547@qq.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/301\"\u003e泵用永磁辅助同步磁阻电机驱动系统\u003c/a\u003e",
+        "unit_name": "新界泵业（浙江）有限公司",
+        "study_area": "控制工程",
+        "contact": "张明丰",
+        "phone": "0576-86336098",
+        "email": "zmf@shimge.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/304\"\u003e头孢类抗生素及其中间体工艺开发\u003c/a\u003e",
+        "unit_name": "浙江华方药业股份有限公司",
+        "study_area": "药学、药物合成、有机合成",
+        "contact": "章炳鑫",
+        "phone": "",
+        "email": "zbx@huafangpharm.com"
+      },
+      {
+        "name": "\u003ca target=\"_blank\" href=\"http://tzbsh.openxy.com/projects/305\"\u003e现场制造工艺流程的优化与网络化管理\u003c/a\u003e",
+        "unit_name": "三变科技股份有限公司",
+        "study_area": "机电工程",
+        "contact": "卢谷峰",
+        "phone": "0576-83381302",
+        "email": "657608123@qq.com"
+      }
+    ],
+    "units": []
+  }
+}

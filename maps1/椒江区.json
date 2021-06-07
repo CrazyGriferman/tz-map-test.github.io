@@ -1,0 +1,93 @@
+{
+  "data": {
+    "name": "椒江区",
+    "maps": [],
+    "charts": { "nation": 4, "province": 5 },
+    "countByTopic": null,
+    "countByType": null,
+    "infos": [],
+    "units": [
+      {
+        "country": "椒江区",
+        "name": "浙江星星冷链集成股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "椒江区",
+        "name": "杰克缝纫机股份有限公司",
+        "role": 1,
+        "total": 5,
+        "total_in": 1,
+        "total_out": 4,
+        "total_exit": 0
+      },
+      {
+        "country": "椒江区",
+        "name": "浙江海正集团有限公司",
+        "role": 1,
+        "total": 64,
+        "total_in": 5,
+        "total_out": 59,
+        "total_exit": 3
+      },
+      {
+        "country": "椒江区",
+        "name": "浙江九洲药业股份有限公司",
+        "role": 1,
+        "total": 18,
+        "total_in": 2,
+        "total_out": 16,
+        "total_exit": 1
+      },
+      {
+        "country": "椒江区",
+        "name": "浙江海翔药业股份有限公司",
+        "role": 1,
+        "total": 12,
+        "total_in": 2,
+        "total_out": 10,
+        "total_exit": 1
+      },
+      {
+        "country": "椒江区",
+        "name": "方远建设集团股份有限公司",
+        "role": 2,
+        "total": 4,
+        "total_in": 4,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "椒江区",
+        "name": "浙江诚信医化设备有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "椒江区",
+        "name": "浙江乐普药业股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      },
+      {
+        "country": "椒江区",
+        "name": "浙江水晶光电科技股份有限公司",
+        "role": 2,
+        "total": 1,
+        "total_in": 1,
+        "total_out": 0,
+        "total_exit": 0
+      }
+    ]
+  }
+}
